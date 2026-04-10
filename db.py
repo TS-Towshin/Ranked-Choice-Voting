@@ -1,0 +1,7 @@
+ballots = [
+["Alice", "Bob", "Charlie"],
+["Bob", "Charlie", "Alice"],
+["Charlie", "Alice", "Bob"],
+["Charlie", "Bob", "Alice"],
+["Bob", "Alice", "Charlie"]
+]
